@@ -1,0 +1,53 @@
+[
+    {
+        "model": "apirest.Conductor",
+        "pk": 1,
+        "fields": {
+                "numero": 1,
+                "nombre": "Antuan",
+                "apellido": "Piscali",
+                "estado":  1                   
+        }
+    },
+    {
+        "model": "apirest.Conductor",
+        "pk": 2,
+        "fields": {
+                "numero": 2,
+                "nombre": "Alex",
+                "apellido": "Vivaldi",
+                "estado":  1
+                               
+        }
+    },
+    {
+        "model": "apirest.Conductor",
+        "pk": 3,
+        "fields": {
+                "numero": 3,
+                "nombre": "Camilo",
+                "apellido": "Ferronus",
+                "estado":  1                
+        }
+    },
+    {
+        "model": "apirest.Conductor",
+        "pk": 4,
+        "fields": {
+                "numero": 4,
+                "nombre": "Fenora",
+                "apellido": "Cascuti",
+                "estado":  1
+        }
+    },
+    {
+        "model": "apirest.Conductor",
+        "pk": 5,
+        "fields": {
+                "numero": 5,
+                "nombre": "Rodino",
+                "apellido": "Alauco",
+                "estado":  1
+        }
+    }
+]
