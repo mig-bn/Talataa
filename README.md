@@ -52,7 +52,9 @@ Para verificar por proyecto utilizando las vistas se debe correr el Servidor de 
 y las rutas las puede verificar en el archivo de las urls.py y sus respectivos endpoints.
 ejemplo:
 >Home: http://127.0.0.1:8000/
+
 >Pedidos: http://127.0.0.1:8000/pedido/
+
 >Conductores: http://127.0.0.1:8000/conductor/
 
 Gracias por su atencion.
