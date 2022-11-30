@@ -21,6 +21,7 @@ http://127.0.0.1:8000/apirest/pedidos/
 
 >Agregar un pedido metodo POST(se debe de mandar un json con los campos y valores de los pedidos):
 http://127.0.0.1:8000/apirest/pedidos/
+
 EJ: {
       "nombre": "ejemplo",
       "apellido": "ejemplo",
