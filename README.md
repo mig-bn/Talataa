@@ -13,6 +13,7 @@ SE DEBE en cuenta que segun los requerimiento solicitados, los conductores no se
 SE DEBE tener en cuenta que este proyecto se diseño de dos maneras. Para ejecutarlo por peticiones o por un navegador simple. Puesto que hubo una confucion al momento de leer la prueba, donde no se aclara como sera el metodo de revision y estas dudas no se aclararon con las personas pertinentes.
 
 =================================================
+
 las rutas por peticiones son la siguentes:
 
 >Consultar todos los pedidos metodo GET:
@@ -44,6 +45,7 @@ http://127.0.0.1:8000/apirest/conductores/
 
 >Consultar todos los pedidos relacionados por conductor enviar el ID del conductor metodo GET:
 http://127.0.0.1:8000/apirest/conductores/'<id>'
+      
 ===================================================
 
 Para verificar por proyecto utilizando las vistas se debe correr el Servidor de PYTHON-DJANGO con la instruccion: " python manage.py runserver ".
